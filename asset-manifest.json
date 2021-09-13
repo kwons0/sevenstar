@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sevenstar/static/css/main.93c1eab8.chunk.css",
+    "main.js": "/sevenstar/static/js/main.731b639d.chunk.js",
+    "main.js.map": "/sevenstar/static/js/main.731b639d.chunk.js.map",
+    "runtime-main.js": "/sevenstar/static/js/runtime-main.1413b519.js",
+    "runtime-main.js.map": "/sevenstar/static/js/runtime-main.1413b519.js.map",
+    "static/js/2.1e070ad6.chunk.js": "/sevenstar/static/js/2.1e070ad6.chunk.js",
+    "static/js/2.1e070ad6.chunk.js.map": "/sevenstar/static/js/2.1e070ad6.chunk.js.map",
+    "static/js/3.161c1486.chunk.js": "/sevenstar/static/js/3.161c1486.chunk.js",
+    "static/js/3.161c1486.chunk.js.map": "/sevenstar/static/js/3.161c1486.chunk.js.map",
+    "index.html": "/sevenstar/index.html",
+    "static/css/main.93c1eab8.chunk.css.map": "/sevenstar/static/css/main.93c1eab8.chunk.css.map",
+    "static/js/2.1e070ad6.chunk.js.LICENSE.txt": "/sevenstar/static/js/2.1e070ad6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sevenstar/static/media/goods_pettern_right.88047467.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1413b519.js",
+    "static/js/2.1e070ad6.chunk.js",
+    "static/css/main.93c1eab8.chunk.css",
+    "static/js/main.731b639d.chunk.js"
+  ]
+}
